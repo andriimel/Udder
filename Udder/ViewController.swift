@@ -20,5 +20,8 @@ class ViewController: UIViewController {
     override func didReceiveMemoryWarning() {
         //
     }
+    override func viewDidDisappear(_ animated: Bool) {
+        //
+    }
 }
 
